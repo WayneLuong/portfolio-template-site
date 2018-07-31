@@ -1,2 +1,2 @@
-# portfolio-template-site
-Previous iteration of my portfolio website
+# WayneLuong.github.io
+Copyright Wayne Luong 2015 
